@@ -1,0 +1,7 @@
+version: '3'
+services:
+  hercules:
+    image: hercules-mvs
+    ports:
+      - "3270:3270"
+      - "8038:8038"
