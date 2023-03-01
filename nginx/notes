@@ -1,0 +1,3 @@
+Notes
+
+sudo ln -s /etc/nginx/sites-available/reverse-proxy.conf /etc/nginx/sites-available/reverse-proxy.cnf
